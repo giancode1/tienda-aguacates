@@ -2,6 +2,8 @@
 
 > ✨ Bootstrapped with Create Snowpack App (CSA).
 
+[View Project](https://festive-almeida-fc4526.netlify.app/)
+
 Ready-to-go template to create awesome websites using Tailwind on top of Snowpack and autopublish to GitHub pages using GitHub Actions.
 
 - [Quick start](#quick-start)
